@@ -24,9 +24,7 @@ The bootcamp covers the following main areas (please verify with the latest cour
    - Server-Side Rendering (e.g., EJS)
 
 ### 3. 🗄️ Databases
-   - SQL (e.g., MySQL or PostgreSQL)
-   - NoSQL (MongoDB)
-   - ORM/ODM (e.g., Mongoose)
+   - SQL (PostgreSQL)
 
 ## 🏗️ Projects
 This repository includes various projects demonstrating the skills learned throughout the course. Each project is contained in its own directory with a specific README detailing the project's features and technologies used.
